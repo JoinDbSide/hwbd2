@@ -1,2 +1,3 @@
-# hwbd2
-Homework Basi di Dati 2
+Aiuti Alessandro
+Baldassarre Alessio
+Valery Anna
